@@ -48,4 +48,4 @@
 ## 10.	Implement Genetic algorithm.
 
 > [GOOGLE COLAB LINK](https://colab.research.google.com/drive/1ezsAMimH57xpRhDOakn8WxZhALF827BF?usp=sharing) <br>
-> [PDF LINK](https://github.com/avs-abhishek123/SoftComputingLab/blob/main/SoftComputingLabPDFs/EXPT_1_AND_Gate%20-%20Colaboratory.pdf)
+> [PDF LINK](https://github.com/avs-abhishek123/SoftComputingLab/blob/main/SoftComputingLabPDFs/EXPT_10_122021601009_Abhishek_Implement_Genetic_algorithm.pdf)
