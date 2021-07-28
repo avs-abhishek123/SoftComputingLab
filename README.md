@@ -37,7 +37,7 @@
 
 ## 8.	Build a classification model using different parameter initialization techniques.
 
-> [GOOGLE COLAB LINK](https://colab.research.google.com/drive/1kT3ihdy2UUu4tWBtt-Ouo4bcvSHfWffs?usp=sharing) <br>
+> [GOOGLE COLAB LINK](https://colab.research.google.com/drive/1v5fdo4fBPDcphBDPKXib1kQ-lQiGTJTL?usp=sharing) <br>
 > [PDF LINK](https://github.com/avs-abhishek123/SoftComputingLab/blob/main/SoftComputingLabPDFs/EXPT_8_Classification_Parameter_Initialization.ipynb%20-%20Colaboratory.pdf)
 
 ## 9.	Build classification model using Mini Batch gradient and Stochastic Gradient techniques.
