@@ -32,7 +32,7 @@
 
 ## 7.	Build neural network for Regression
 
-> [GOOGLE COLAB LINK](https://drive.google.com/file/d/1LCUlqEFxFY89fKJKJQjzQBfhGB3X3jKl/view?usp=sharing) <br>
+> [GOOGLE COLAB LINK](https://colab.research.google.com/drive/1wHgBIH4nPmLeEomJiq5NgTewOOCiz7Qw?usp=sharing) <br>
 > [PDF LINK](https://github.com/avs-abhishek123/SoftComputingLab/blob/main/SoftComputingLabPDFs/EXPT_7_122021601009_Abhishek_Neural_network_for_regression.ipynb%20-%20Colaboratory.pdf)
 
 ## 8.	Build a classification model using different parameter initialization techniques.
